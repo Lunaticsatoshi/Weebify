@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321956108792",
+    "firebase_url": "https://weebify-2f8ef.firebaseio.com",
+    "project_id": "weebify-2f8ef",
+    "storage_bucket": "weebify-2f8ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321956108792:android:e8664a283f761343999e0d",
+        "android_client_info": {
+          "package_name": "com.example.weebify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321956108792-465ede5rl327lvdufsm36iaoat1i0tvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmn5nS5Ux8bpnygoki9ZIOozGcc_yWELI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321956108792-465ede5rl327lvdufsm36iaoat1i0tvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
